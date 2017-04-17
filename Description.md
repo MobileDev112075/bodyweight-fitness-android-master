@@ -16,17 +16,6 @@ The app is not meant to replace fitloop! Don't get me wrong, I love fitloop and 
 
 The app is Open Source but at the moment source is out of date. Going to push Android Code tomorrow, iOS is currently in the works and hopefully I can finish it in next 2 weeks. I also have to choose apropriate license.
 
-**GitHub:**
-
-https://github.com/mazurio/fit-for-reddit-android
-https://github.com/mazurio/fit-for-reddit-ios
-
-**Download Android:**
-
-**Free:** https://play.google.com/store/apps/details?id=io.mazur.fit.reddit.free
-**Pro / Donation (£1.99 / $2.49):** https://play.google.com/store/apps/details?id=io.mazur.fit.reddit.pro
-
-**Download iOS:**
 
 Work in progress, hopefully going to be finished in next 2 - 3 weeks but might take longer.
 
@@ -40,11 +29,6 @@ Part of the money would go towards Apple Developer License for one year which is
 
 As I love this subreddit and it's community, I am going to be honest. My ultimate goal is to be able to gather some money for an engagement ring for my amazing girlfriend. I know she will never read this post so I am free to say it.
 
-**What about bugs?**
-
-Please report anything you can find by private message on reddit /u/mazurio
-
-Otherwise you can use email that can be found on GitHub: https://github.com/mazurio
 
 **What is coming next?**
 
@@ -79,4 +63,3 @@ Those apps are created for this community, please read the comment from /u/Antra
 I would love to see this sub participate in their own open source project to make things even better.
 
 Hope you love it,
-**mazurio**
